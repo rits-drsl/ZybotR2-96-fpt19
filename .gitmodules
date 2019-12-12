@@ -1,0 +1,3 @@
+[submodule "ultra96/ROOT_FS/zynqmp_bsp/ZybotR2-96-fpt19-bsp"]
+	path = ultra96/ROOT_FS/zynqmp_bsp/ZybotR2-96-fpt19-bsp
+	url = https://github.com/rits-drsl/ZybotR2-96-fpt19-bsp.git
