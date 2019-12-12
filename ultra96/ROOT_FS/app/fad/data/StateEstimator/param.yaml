@@ -1,0 +1,7 @@
+%YAML 1.2
+---
+PF:
+   wo_ps_sigma_when_vo_is_valid:   0.025
+   wo_t_sigma_when_vo_is_valid:    0.034
+   wo_ps_sigma_when_vo_is_invalid: 0.0001
+   wo_t_sigma_when_vo_is_invalid:  0.0002

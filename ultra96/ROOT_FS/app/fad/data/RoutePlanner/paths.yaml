@@ -1,0 +1,4613 @@
+%YAML 1.2
+---
+velocity:
+  curve:     0.075
+  out_curve: 0.075
+  junction:  0.090
+  straight:  0.110
+num: 5
+path0:
+  constraint_file: "/data/RoutePlanner/paths_constraint0.png"
+  num: 294
+  point000:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 610
+    y: 1240
+  point001:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 600
+    y: 1240
+  point002:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 590
+    y: 1240
+  point003:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 580
+    y: 1240
+  point004:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 570
+    y: 1240
+  point005:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 560
+    y: 1240
+  point006:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 550
+    y: 1240
+  point007:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 540
+    y: 1240
+  point008:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 530
+    y: 1240
+  point009:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 520
+    y: 1240
+  point010:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 510
+    y: 1240
+  point011:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 500
+    y: 1240
+  point012:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 490
+    y: 1240
+  point013:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 480
+    y: 1240
+  point014:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 470
+    y: 1240
+  point015:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 460
+    y: 1240
+  point016:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 450
+    y: 1240
+  point017:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 440
+    y: 1240
+  point018:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 430
+    y: 1240
+  point019:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 420
+    y: 1240
+  point020:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 410
+    y: 1240
+  point021:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 400
+    y: 1240
+  point022:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 390
+    y: 1240
+  point023:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 380
+    y: 1240
+  point024:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 370
+    y: 1240
+  point025:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 360
+    y: 1240
+  point026:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 350
+    y: 1240
+  point027:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 340
+    y: 1240
+  point028:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 330
+    y: 1230
+  point029:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 320
+    y: 1220
+  point030:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 310
+    y: 1210
+  point031:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 300
+    y: 1200
+  point032:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1190
+  point033:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1180
+  point034:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1170
+  point035:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1160
+  point036:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1150
+  point037:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1140
+  point038:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1130
+  point039:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1120
+  point040:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1110
+  point041:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1100
+  point042:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1090
+  point043:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1080
+  point044:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 1070
+  point045:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 1060
+  point046:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 1050
+  point047:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 1040
+  point048:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 1030
+  point049:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 1020
+  point050:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 1010
+  point051:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 1000
+  point052:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 990
+  point053:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 980
+  point054:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 970
+  point055:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 960
+  point056:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 950
+  point057:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 940
+  point058:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 930
+  point059:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 920
+  point060:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 910
+  point061:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 900
+  point062:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 890
+  point063:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 880
+  point064:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 870
+  point065:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 860
+  point066:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 850
+  point067:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 840
+  point068:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 830
+  point069:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 820
+  point070:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 810
+  point071:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 800
+  point072:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 790
+  point073:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 780
+  point074:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 770
+  point075:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 760
+  point076:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 750
+  point077:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 740
+  point078:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 730
+  point079:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 720
+  point080:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 710
+  point081:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 700
+  point082:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 690
+  point083:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 680
+  point084:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 670
+  point085:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 660
+  point086:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 290
+    y: 650
+  point087:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 640
+  point088:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 630
+  point089:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 620
+  point090:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 610
+  point091:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 600
+  point092:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 590
+  point093:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 580
+  point094:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 570
+  point095:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 560
+  point096:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 550
+  point097:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 540
+  point098:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 530
+  point099:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 520
+  point100:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 510
+  point101:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 290
+    y: 500
+  point102:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 490
+  point103:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 480
+  point104:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 470
+  point105:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 460
+  point106:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 450
+  point107:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 440
+  point108:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 430
+  point109:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 420
+  point110:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 410
+  point111:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 400
+  point112:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 390
+  point113:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 380
+  point114:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 370
+  point115:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 290
+    y: 360
+  point116:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 300
+    y: 350
+  point117:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 310
+    y: 340
+  point118:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 320
+    y: 330
+  point119:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 330
+    y: 320
+  point120:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 340
+    y: 310
+  point121:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 350
+    y: 310
+  point122:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 360
+    y: 310
+  point123:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 370
+    y: 310
+  point124:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 380
+    y: 310
+  point125:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 390
+    y: 310
+  point126:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 400
+    y: 310
+  point127:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 410
+    y: 310
+  point128:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 420
+    y: 310
+  point129:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 430
+    y: 310
+  point130:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 440
+    y: 310
+  point131:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 450
+    y: 310
+  point132:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 460
+    y: 310
+  point133:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 470
+    y: 310
+  point134:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 480
+    y: 310
+  point135:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 490
+    y: 310
+  point136:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 500
+    y: 310
+  point137:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 510
+    y: 310
+  point138:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 520
+    y: 310
+  point139:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 530
+    y: 310
+  point140:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 540
+    y: 310
+  point141:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 550
+    y: 310
+  point142:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 560
+    y: 310
+  point143:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 570
+    y: 310
+  point144:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 580
+    y: 310
+  point145:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 590
+    y: 310
+  point146:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 600
+    y: 310
+  point147:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 610
+    y: 310
+  point148:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 620
+    y: 310
+  point149:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 630
+    y: 310
+  point150:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 640
+    y: 310
+  point151:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 650
+    y: 310
+  point152:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 660
+    y: 310
+  point153:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 670
+    y: 310
+  point154:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 680
+    y: 310
+  point155:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 690
+    y: 310
+  point156:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 700
+    y: 310
+  point157:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 710
+    y: 310
+  point158:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 720
+    y: 310
+  point159:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 730
+    y: 310
+  point160:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 740
+    y: 310
+  point161:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 750
+    y: 310
+  point162:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 760
+    y: 310
+  point163:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 770
+    y: 310
+  point164:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 780
+    y: 310
+  point165:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 790
+    y: 310
+  point166:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 800
+    y: 310
+  point167:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 810
+    y: 310
+  point168:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 820
+    y: 310
+  point169:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 830
+    y: 310
+  point170:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 840
+    y: 310
+  point171:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 850
+    y: 310
+  point172:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 860
+    y: 310
+  point173:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 870
+    y: 310
+  point174:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 880
+    y: 310
+  point175:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 890
+    y: 320
+  point176:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 900
+    y: 330
+  point177:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 910
+    y: 340
+  point178:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 920
+    y: 350
+  point179:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 360
+  point180:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 370
+  point181:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 380
+  point182:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 390
+  point183:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 400
+  point184:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 410
+  point185:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 420
+  point186:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 430
+  point187:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 440
+  point188:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 450
+  point189:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 460
+  point190:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 470
+  point191:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 480
+  point192:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 490
+  point193:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 500
+  point194:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 510
+  point195:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 520
+  point196:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 530
+  point197:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 540
+  point198:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 550
+  point199:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 560
+  point200:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 570
+  point201:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 580
+  point202:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 590
+  point203:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 600
+  point204:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 610
+  point205:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 620
+  point206:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 630
+  point207:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 640
+  point208:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 650
+  point209:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 660
+  point210:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 670
+  point211:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 680
+  point212:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 690
+  point213:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 700
+  point214:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 710
+  point215:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 720
+  point216:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 730
+  point217:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 740
+  point218:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 750
+  point219:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 760
+  point220:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 770
+  point221:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 780
+  point222:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 790
+  point223:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 800
+  point224:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 810
+  point225:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 820
+  point226:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 830
+  point227:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 840
+  point228:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 850
+  point229:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 860
+  point230:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 870
+  point231:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 880
+  point232:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 890
+  point233:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 930
+    y: 900
+  point234:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 910
+  point235:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 920
+  point236:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 930
+  point237:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 940
+  point238:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 950
+  point239:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 960
+  point240:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 970
+  point241:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 980
+  point242:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 990
+  point243:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 1000
+  point244:
+    is_stop_line: 1
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 1010
+  point245:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 1020
+  point246:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 1030
+  point247:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 1040
+  point248:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 930
+    y: 1050
+  point249:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1060
+  point250:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1070
+  point251:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1080
+  point252:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1090
+  point253:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1100
+  point254:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1110
+  point255:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1120
+  point256:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1130
+  point257:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1140
+  point258:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1150
+  point259:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1160
+  point260:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1170
+  point261:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1180
+  point262:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 930
+    y: 1190
+  point263:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 920
+    y: 1200
+  point264:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 910
+    y: 1210
+  point265:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 900
+    y: 1220
+  point266:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 890
+    y: 1230
+  point267:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 880
+    y: 1240
+  point268:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 870
+    y: 1240
+  point269:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 860
+    y: 1240
+  point270:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 850
+    y: 1240
+  point271:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 840
+    y: 1240
+  point272:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 830
+    y: 1240
+  point273:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 820
+    y: 1240
+  point274:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 810
+    y: 1240
+  point275:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 800
+    y: 1240
+  point276:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 790
+    y: 1240
+  point277:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 780
+    y: 1240
+  point278:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "out_curve"
+    x: 770
+    y: 1240
+  point279:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 760
+    y: 1240
+  point280:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 750
+    y: 1240
+  point281:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "straight"
+    x: 740
+    y: 1240
+  point282:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 730
+    y: 1240
+  point283:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 720
+    y: 1240
+  point284:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 710
+    y: 1240
+  point285:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 700
+    y: 1240
+  point286:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 690
+    y: 1240
+  point287:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 680
+    y: 1240
+  point288:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 670
+    y: 1240
+  point289:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 660
+    y: 1240
+  point290:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 650
+    y: 1240
+  point291:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 640
+    y: 1240
+  point292:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 630
+    y: 1240
+  point293:
+    is_stop_line: 0
+    line_trace_mode: 1
+    velocity: "junction"
+    x: 620
+    y: 1240
+path1:
+  constraint_file: "/data/RoutePlanner/paths_constraint1.png"
+  num: 118
+  point000:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 460
+  point001:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 450
+  point002:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 440
+  point003:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 430
+  point004:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 420
+  point005:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 410
+  point006:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 400
+  point007:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 390
+  point008:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 380
+  point009:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 360
+  point010:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 570
+    y: 360
+  point011:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 560
+    y: 360
+  point012:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 550
+    y: 360
+  point013:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 540
+    y: 360
+  point014:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 530
+    y: 360
+  point015:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 520
+    y: 360
+  point016:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 510
+    y: 360
+  point017:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 500
+    y: 360
+  point018:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 490
+    y: 360
+  point019:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 480
+    y: 360
+  point020:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 470
+    y: 360
+  point021:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 460
+    y: 360
+  point022:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 450
+    y: 360
+  point023:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 440
+    y: 360
+  point024:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 430
+    y: 360
+  point025:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 420
+    y: 360
+  point026:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 410
+    y: 360
+  point027:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 400
+    y: 360
+  point028:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 390
+    y: 360
+  point029:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 380
+    y: 360
+  point030:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 370
+    y: 360
+  point031:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 360
+    y: 370
+  point032:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 390
+  point033:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 400
+  point034:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 410
+  point035:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 420
+  point036:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 430
+  point037:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 440
+  point038:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 450
+  point039:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 460
+  point040:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 470
+  point041:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 480
+  point042:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 490
+  point043:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 500
+  point044:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 510
+  point045:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 520
+  point046:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 530
+  point047:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 540
+  point048:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 550
+  point049:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 560
+  point050:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 570
+  point051:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 580
+  point052:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 590
+  point053:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 600
+  point054:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 610
+  point055:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 620
+  point056:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 630
+  point057:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 640
+  point058:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 650
+  point059:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 660
+  point060:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 670
+  point061:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 680
+  point062:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 690
+  point063:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 700
+  point064:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 710
+  point065:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 720
+  point066:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 730
+  point067:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 750
+  point068:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 360
+    y: 750
+  point069:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 370
+    y: 750
+  point070:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 380
+    y: 750
+  point071:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 390
+    y: 750
+  point072:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 400
+    y: 750
+  point073:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 410
+    y: 750
+  point074:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 420
+    y: 750
+  point075:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 430
+    y: 750
+  point076:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 440
+    y: 750
+  point077:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 450
+    y: 750
+  point078:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 460
+    y: 750
+  point079:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 470
+    y: 750
+  point080:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 480
+    y: 750
+  point081:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 490
+    y: 750
+  point082:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 500
+    y: 750
+  point083:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 510
+    y: 750
+  point084:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 520
+    y: 750
+  point085:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 530
+    y: 750
+  point086:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 540
+    y: 750
+  point087:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 550
+    y: 750
+  point088:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 560
+    y: 750
+  point089:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 570
+    y: 750
+  point090:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 750
+  point091:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 730
+  point092:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 720
+  point093:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 710
+  point094:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 700
+  point095:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 690
+  point096:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 680
+  point097:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 670
+  point098:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 660
+  point099:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 650
+  point100:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 640
+  point101:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 630
+  point102:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 620
+  point103:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 610
+  point104:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 600
+  point105:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 590
+  point106:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 580
+  point107:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 570
+  point108:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 560
+  point109:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 550
+  point110:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 540
+  point111:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 530
+  point112:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 520
+  point113:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 510
+  point114:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 500
+  point115:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 490
+  point116:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 480
+  point117:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 470
+path2:
+  constraint_file: "/data/RoutePlanner/paths_constraint2.png"
+  num: 118
+  point000:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 560
+  point001:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 550
+  point002:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 540
+  point003:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 530
+  point004:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 520
+  point005:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 510
+  point006:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 500
+  point007:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 490
+  point008:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 480
+  point009:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 470
+  point010:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 460
+  point011:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 450
+  point012:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 440
+  point013:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 430
+  point014:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 420
+  point015:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 410
+  point016:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 400
+  point017:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 390
+  point018:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 860
+    y: 370
+  point019:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 850
+    y: 360
+  point020:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 840
+    y: 360
+  point021:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 830
+    y: 360
+  point022:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 820
+    y: 360
+  point023:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 810
+    y: 360
+  point024:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 800
+    y: 360
+  point025:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 790
+    y: 360
+  point026:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 780
+    y: 360
+  point027:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 770
+    y: 360
+  point028:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 760
+    y: 360
+  point029:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 750
+    y: 360
+  point030:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 740
+    y: 360
+  point031:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 730
+    y: 360
+  point032:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 720
+    y: 360
+  point033:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 710
+    y: 360
+  point034:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 700
+    y: 360
+  point035:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 690
+    y: 360
+  point036:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 680
+    y: 360
+  point037:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 670
+    y: 360
+  point038:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 660
+    y: 360
+  point039:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 650
+    y: 360
+  point040:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 360
+  point041:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 380
+  point042:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 390
+  point043:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 400
+  point044:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 410
+  point045:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 420
+  point046:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 430
+  point047:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 440
+  point048:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 450
+  point049:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 460
+  point050:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 470
+  point051:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 480
+  point052:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 490
+  point053:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 500
+  point054:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 510
+  point055:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 520
+  point056:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 530
+  point057:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 540
+  point058:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 550
+  point059:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 560
+  point060:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 570
+  point061:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 580
+  point062:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 590
+  point063:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 600
+  point064:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 610
+  point065:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 620
+  point066:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 630
+  point067:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 640
+  point068:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 650
+  point069:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 660
+  point070:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 670
+  point071:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 680
+  point072:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 690
+  point073:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 700
+  point074:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 710
+  point075:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 720
+  point076:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 730
+  point077:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 750
+  point078:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 650
+    y: 750
+  point079:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 660
+    y: 750
+  point080:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 670
+    y: 750
+  point081:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 680
+    y: 750
+  point082:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 690
+    y: 750
+  point083:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 700
+    y: 750
+  point084:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 710
+    y: 750
+  point085:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 720
+    y: 750
+  point086:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 730
+    y: 750
+  point087:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 740
+    y: 750
+  point088:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 750
+    y: 750
+  point089:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 760
+    y: 750
+  point090:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 770
+    y: 750
+  point091:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 780
+    y: 750
+  point092:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 790
+    y: 750
+  point093:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 800
+    y: 750
+  point094:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 810
+    y: 750
+  point095:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 820
+    y: 750
+  point096:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 830
+    y: 750
+  point097:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 840
+    y: 750
+  point098:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 850
+    y: 750
+  point099:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 860
+    y: 750
+  point100:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 750
+  point101:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 730
+  point102:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 720
+  point103:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 710
+  point104:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 700
+  point105:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 690
+  point106:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 680
+  point107:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 670
+  point108:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 660
+  point109:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 650
+  point110:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 640
+  point111:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 630
+  point112:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 620
+  point113:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 610
+  point114:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 600
+  point115:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 590
+  point116:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 580
+  point117:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 570
+path3:
+  constraint_file: "/data/RoutePlanner/paths_constraint3.png"
+  num: 118
+  point000:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 990
+  point001:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 1000
+  point002:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 1010
+  point003:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 1020
+  point004:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 1030
+  point005:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 1040
+  point006:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 1050
+  point007:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 1060
+  point008:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1070
+  point009:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1080
+  point010:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1090
+  point011:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1100
+  point012:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1110
+  point013:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1120
+  point014:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1130
+  point015:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1140
+  point016:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1150
+  point017:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 340
+    y: 1160
+  point018:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 360
+    y: 1180
+  point019:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 370
+    y: 1190
+  point020:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 380
+    y: 1190
+  point021:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 390
+    y: 1190
+  point022:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 400
+    y: 1190
+  point023:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 410
+    y: 1190
+  point024:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 420
+    y: 1190
+  point025:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 430
+    y: 1190
+  point026:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 440
+    y: 1190
+  point027:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 450
+    y: 1190
+  point028:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 460
+    y: 1190
+  point029:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 470
+    y: 1190
+  point030:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 480
+    y: 1190
+  point031:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 490
+    y: 1190
+  point032:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 500
+    y: 1190
+  point033:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 510
+    y: 1190
+  point034:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 520
+    y: 1190
+  point035:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 530
+    y: 1190
+  point036:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 540
+    y: 1190
+  point037:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 550
+    y: 1190
+  point038:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 560
+    y: 1190
+  point039:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 570
+    y: 1190
+  point040:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1190
+  point041:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1170
+  point042:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1160
+  point043:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1150
+  point044:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1140
+  point045:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1130
+  point046:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1120
+  point047:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1110
+  point048:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1100
+  point049:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1090
+  point050:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 1080
+  point051:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 1070
+  point052:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 1060
+  point053:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 1050
+  point054:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 1040
+  point055:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 1030
+  point056:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 1020
+  point057:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 1010
+  point058:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 1000
+  point059:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 990
+  point060:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 980
+  point061:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 970
+  point062:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 960
+  point063:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 950
+  point064:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 940
+  point065:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 930
+  point066:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 590
+    y: 920
+  point067:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 910
+  point068:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 900
+  point069:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 890
+  point070:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 880
+  point071:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 870
+  point072:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 860
+  point073:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 850
+  point074:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 840
+  point075:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 830
+  point076:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 820
+  point077:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 590
+    y: 800
+  point078:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 570
+    y: 800
+  point079:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 560
+    y: 800
+  point080:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 550
+    y: 800
+  point081:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 540
+    y: 800
+  point082:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 530
+    y: 800
+  point083:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 520
+    y: 800
+  point084:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 510
+    y: 800
+  point085:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 500
+    y: 800
+  point086:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 490
+    y: 800
+  point087:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 480
+    y: 800
+  point088:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 470
+    y: 800
+  point089:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 460
+    y: 800
+  point090:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 450
+    y: 800
+  point091:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 440
+    y: 800
+  point092:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 430
+    y: 800
+  point093:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 420
+    y: 800
+  point094:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 410
+    y: 800
+  point095:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 400
+    y: 800
+  point096:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 390
+    y: 800
+  point097:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 380
+    y: 800
+  point098:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 370
+    y: 800
+  point099:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 360
+    y: 800
+  point100:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 800
+  point101:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 820
+  point102:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 830
+  point103:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 840
+  point104:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 850
+  point105:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 860
+  point106:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 870
+  point107:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 880
+  point108:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 890
+  point109:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 340
+    y: 900
+  point110:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 910
+  point111:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 920
+  point112:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 930
+  point113:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 940
+  point114:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 950
+  point115:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 960
+  point116:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 970
+  point117:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 340
+    y: 980
+path4:
+  constraint_file: "/data/RoutePlanner/paths_constraint4.png"
+  num: 117
+  point000:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1150
+  point001:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 1140
+  point002:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1130
+  point003:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1120
+  point004:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1110
+  point005:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1100
+  point006:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1090
+  point007:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1080
+  point008:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1070
+  point009:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 880
+    y: 1060
+  point010:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 1050
+  point011:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 1040
+  point012:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 1030
+  point013:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 1020
+  point014:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 1010
+  point015:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 1000
+  point016:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 990
+  point017:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 980
+  point018:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 970
+  point019:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 960
+  point020:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 950
+  point021:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 940
+  point022:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 930
+  point023:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 920
+  point024:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 880
+    y: 910
+  point025:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 900
+  point026:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 890
+  point027:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 880
+  point028:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 870
+  point029:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 860
+  point030:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 850
+  point031:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 840
+  point032:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 830
+  point033:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 820
+  point034:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 880
+    y: 800
+  point035:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 860
+    y: 800
+  point036:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 850
+    y: 800
+  point037:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 840
+    y: 800
+  point038:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 830
+    y: 800
+  point039:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 820
+    y: 800
+  point040:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 810
+    y: 800
+  point041:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 800
+    y: 800
+  point042:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 790
+    y: 800
+  point043:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 780
+    y: 800
+  point044:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 770
+    y: 800
+  point045:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 760
+    y: 800
+  point046:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 750
+    y: 800
+  point047:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 740
+    y: 800
+  point048:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 730
+    y: 800
+  point049:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 720
+    y: 800
+  point050:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 710
+    y: 800
+  point051:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 700
+    y: 800
+  point052:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 690
+    y: 800
+  point053:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 680
+    y: 800
+  point054:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 670
+    y: 800
+  point055:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 660
+    y: 800
+  point056:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 650
+    y: 800
+  point057:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 800
+  point058:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 820
+  point059:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 830
+  point060:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 840
+  point061:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 850
+  point062:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 860
+  point063:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 870
+  point064:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 880
+  point065:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 890
+  point066:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 900
+  point067:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 910
+  point068:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 920
+  point069:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 930
+  point070:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 940
+  point071:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 950
+  point072:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 960
+  point073:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 970
+  point074:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 980
+  point075:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 990
+  point076:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 1000
+  point077:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 1010
+  point078:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 1020
+  point079:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 1030
+  point080:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 1040
+  point081:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 1050
+  point082:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 1060
+  point083:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 630
+    y: 1070
+  point084:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1080
+  point085:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1090
+  point086:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1100
+  point087:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1110
+  point088:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1120
+  point089:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1130
+  point090:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1140
+  point091:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1150
+  point092:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1160
+  point093:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1170
+  point094:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 630
+    y: 1190
+  point095:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 650
+    y: 1190
+  point096:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 660
+    y: 1190
+  point097:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 670
+    y: 1190
+  point098:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 680
+    y: 1190
+  point099:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 690
+    y: 1190
+  point100:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 700
+    y: 1190
+  point101:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 710
+    y: 1190
+  point102:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 720
+    y: 1190
+  point103:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "junction"
+    x: 730
+    y: 1190
+  point104:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 740
+    y: 1190
+  point105:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 750
+    y: 1190
+  point106:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "straight"
+    x: 760
+    y: 1190
+  point107:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 770
+    y: 1190
+  point108:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 780
+    y: 1190
+  point109:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 790
+    y: 1190
+  point110:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 800
+    y: 1190
+  point111:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 810
+    y: 1190
+  point112:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 820
+    y: 1190
+  point113:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 830
+    y: 1190
+  point114:
+    is_stop_line: 0
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 840
+    y: 1190
+  point115:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 850
+    y: 1180
+  point116:
+    is_stop_line: 1
+    line_trace_mode: 0
+    velocity: "curve"
+    x: 860
+    y: 1170

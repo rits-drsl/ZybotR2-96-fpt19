@@ -1,0 +1,51 @@
+%YAML 1.2
+---
+tl0:
+  x: 280
+  y: 1000
+  theta: 90
+tl1:
+  x: 280
+  y: 410
+  theta: 90
+tl2:
+  x: 930
+  y: 540
+  theta: -90
+tl3:
+  x: 930
+  y: 1130
+  theta: -90
+tl4:
+  x: 350
+  y: 540
+  theta: -90
+tl5:
+  x: 570
+  y: 630
+  theta: 90
+tl6:
+  x: 870
+  y: 410
+  theta: 90
+tl7:
+  x: 750
+  y: 740
+  theta: -180
+tl8:
+  x: 470
+  y: 810
+  theta: 0
+tl9:
+  x: 350
+  y: 1130
+  theta: -90
+tl10:
+  x: 640
+  y: 920
+  theta: -90
+tl11:
+  x: 870
+  y: 1000
+  theta: 90
+num: 12

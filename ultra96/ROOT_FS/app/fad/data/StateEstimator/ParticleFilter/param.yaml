@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+param:
+   max_num_particle:                  3000   # パーティクルの最大個数
+   likelifood_position_sigma:         0.05  # 尤度関数で使用する位置用σ
+   likelifood_theta_sigma:            0.085   # 尤度関数で使用する向き用σ
+   reset_ratio_thr:                   0      # リセットしきい値の比率
+   reset_position_sigma:              0.09  # リセットで使用する位置用σ
+   reset_theta_sigma:                 0.1  # リセットで使用する向き用σ
+   vo_ratio_when_calc_disparity:      1.0    # voとioの比率
+
+   vo_ps_sigma: 0.000000001
+   vo_t_sigma:  0.000000001
+   io_ps_sigma: 0.000000001
+   io_t_sigma:  0.000000001

@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+param:
+   dim:                2
+   max_sampling_num:   1200
+   goal_sampling_rate: 0.25
+   expand_dist:        1.00
+   R:                  1.50
+   goal_region_radius: 0.05
+   terminate_ratio:    1.01  # コストが current_state.distanceFrom(target_state) * terminate_ratio 以下になることを終了条件とする

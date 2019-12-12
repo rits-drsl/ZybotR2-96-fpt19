@@ -1,0 +1,23 @@
+%YAML 1.2
+---
+Pedestrian:
+   pedestrian_haar_like_cascade_file_path: "/data/ConstraintGenerator/PedestrianDetector/HaarLike/pedestrian_cascade.xml"
+   y_of_top_of_detection_area:    40    # 歩行者認識の対象とする画像領域のy方向の下限
+   y_of_bottom_of_detection_area: 220   # 歩行者認識の対象とする画像領域のy方向の上限
+   x_of_left_of_detection_area:   200   # 歩行者認識の対象とする画像領域のx方向の下限
+   x_of_right_of_detection_area:  440   # 歩行者認識の対象とする画像領域のx方向の上限
+   haar_like_scale_factor:        1.1
+   haar_like_min_neighbors:       5
+   gaussian_kernel_size:          5
+   nof_closing:                   1
+   hsv_trans_min_h:               0
+   hsv_trans_min_s:               30
+   hsv_trans_min_v:               60
+   hsv_trans_max_h:               20
+   hsv_trans_max_s:               150
+   hsv_trans_max_v:               255
+   ratio_of_labeled_region_lower: 0.60  # ラベリングされた領域/矩形領域の面積
+   ratio_of_labeled_region_upper: 0.85  # ラベリングされた領域/矩形領域の面積
+   aspect_ratio_lower:            0.20  # 横/縦
+   aspect_ratio_upper:            0.40  # 横/縦
+                                        # NOTE: 複数の領域が当てはまる場合、 $(lower + upper) / 2$ に近いものが採用されます

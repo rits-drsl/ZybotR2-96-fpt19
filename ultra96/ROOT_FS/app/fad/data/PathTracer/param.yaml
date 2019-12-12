@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+Basis:
+  # 現状態から参照する状態までの距離は速度に比例する
+   distance_current_to_ref_lower: 0.125  # 現状態からこの距離にある経路上の状態を参照する(下限)
+   distance_current_to_ref_upper: 0.225  # 現状態からこの距離にある経路上の状態を参照する(上限)
+   lower_velocity: 0.060  # この速度(以下)のとき、現状態から参照する状態までの距離をdistance_current_to_ref_lowerとする
+   upper_velocity: 0.120  # この速度(以上)のとき、現状態から参照する状態までの距離をdistance_current_to_ref_upperとする
+   trace_method: "PP"  # "PP", "LQR", "SLPP"

@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+param:
+   match_method:                         "TM"  # "AKAZE", "TM"
+   line_area_thr:                        0.040 # 白線領域として許容する面積のしきい値(m^2)
+   cutting_size_of_ref_map:              1.70  # マッチング処理において参照地図を切り取る際の1辺の長さ
+   pattern_matcher_delta_threshord:      0.25  # 対応点のズレの許容値(単位m)
+   cutting_left_ratio_of_pattern_image:  0.15  # 路面画像の左右を切り落とす割合
+   cutting_right_ratio_of_pattern_image: 0.15  # 路面画像の左右を切り落とす割合
+   cutting_above_ratio_of_pattern_image: 0.00  # 路面画像の上を切り落とす割合
+   scale_ratio:                          0.90  # マッチング処理時の参照地図・路面画像の拡縮率

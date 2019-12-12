@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+ratio: 0.00473758865248   # 実空間における地図画像1pixあたりの大きさ(メートル)
+
+file_path_information:    # 各種環境情報
+  edge_map: "/data/RoutePlanner/edge.png"
+  line_map: "/data/RoutePlanner/line.png"
+  paths: "/data/RoutePlanner/paths.yaml"
+  path_connection: "/data/RoutePlanner/path_connection.yaml"
+  route: "/data/RoutePlanner/route/mini.yaml"
+  traffic_light: "/data/RoutePlanner/traffic_light.yaml"

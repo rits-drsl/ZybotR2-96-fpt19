@@ -1,0 +1,17 @@
+/dts-v1/;/plugin/;
+/ {
+    fragment@0 {
+        target-path = "/amba_pl@0";
+        #address-celss = <2>;
+        #size-cells = <2>;
+        __overlay__ {
+            v4l2 {
+                compatible = "fixstars,zynq-v4l2-1.0";
+                #interrupt-cells = <0x3>;
+                device-name="v4l2";
+                interrupt-parent = <&gic>;
+                interrupts = <0x0 0x59 0x4>;
+            };
+        };
+    };
+};

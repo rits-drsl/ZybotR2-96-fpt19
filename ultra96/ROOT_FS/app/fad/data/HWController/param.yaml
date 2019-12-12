@@ -1,0 +1,66 @@
+%YAML 1.2
+---
+devname:
+   gpio1:     "uio1"
+   gpio2:     "uio2"
+   pcam:      "pcam0"
+   webcam:    "video0"
+   iic:       "i2c-4"
+   preimproc: "uio3"
+
+Motor:
+   PID:
+      P_gain: 20.0
+      I_gain: 0
+      D_gain: 0
+
+Pcam:
+   ratio: # 実空間における俯瞰画像1pixあたりの大きさ(メートル)
+      B: 0.00116022099448
+      W: 0.00114827586207
+   distance_im_center_from_vehicle: # 車体位置から路面の俯瞰画像の中心までの距離
+      B: 0.725
+      W: 0.705
+   H: # 射影変換行列
+      B:!!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: d
+         data: [0.9526335212934715, -0.46664717537982203, -118.81856304602758,
+                0.009559879937150023, 0.12415056658819879, 38.919062162917626,
+                2.105219547688965e-05, -0.0007567874418469884, 0.7649642705124012]
+      W:!!opencv-matrix
+         rows: 3
+         cols: 3
+         dt: d
+         data: [0.50720950756061423,    -0.28609296247862681,  -46.096610301595,
+                0.0050275652122981412,   0.033236545320877463,  47.520355608489027,
+                1.7955590043921254e-05, -0.00044786104541836902, 0.41617045769652916 ]
+   calibration_parameter_file:
+      B: "/data/HWController/pcam_calibration_parameter_1.xml"
+      W: "/data/HWController/pcam_calibration_parameter_2.xml"
+
+Optor:
+   calibration_parameter_file:
+      B:
+         r: "/data/HWController/optor_right_calibration_parameter_1.xml"
+         l: "/data/HWController/optor_left_calibration_parameter_1.xml"
+      W:
+         r: "/data/HWController/optor_right_calibration_parameter_2.xml"
+         l: "/data/HWController/optor_left_calibration_parameter_2.xml"
+   setting_file:
+      B: "/data/HWController/optor_param_1.txt"
+      W: "/data/HWController/optor_param_2.txt"
+
+WebCam:
+   width:  640
+   height: 480
+   calibration_parameter_file:
+      B: "/data/HWController/webcam_vga_calibration_parameter_1.xml"
+      W: "/data/HWController/webcam_vga_calibration_parameter_2.xml"
+
+PreImProc:
+   bin_thr:         235
+   sat_thr:         90
+   hysteresis_hthr: 80
+   hysteresis_lthr: 20

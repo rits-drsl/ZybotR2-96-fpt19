@@ -1,0 +1,7 @@
+%YAML 1.2
+---
+param:
+   opencv_tm_method: 5      # CV_TM_SQDIFF = 0, CV_TM_SQDIFF_NORMED = 1, CV_TM_CCORR = 2, CV_TM_CCORR_NORMED = 3, CV_TM_CCOEFF = 4, CV_TM_CCOEFF_NORMED = 5
+   search_range_degree: 10  # 探索する角度の範囲(+-)
+   nof_divisions: 20        # 角度の分割数(角度分解能 : 2 * search_range_degree / nof_divisions)
+   max_val_thr: 0.30        # 有効なマッチング結果とするしきい値

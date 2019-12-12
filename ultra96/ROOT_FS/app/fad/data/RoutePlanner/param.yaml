@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+Basis:
+  R: 1.5                             # 現状態と目標状態の距離がこの値以下になったら目標状態を更新する
+  ratio_for_path_planner_region: 1.6 # 現状態と目標状態の中間点を中心とした正方形領域をPathPlannerに渡すが、その際の正方形領域の大きさを指定するパラメータ
+                                     # 一辺の長さは ||current_state - med_state||_2 * 2 * ratio_for_path_planner_region となる
+  nof_checking_index_in_gen_constraint: 25  # パスの接続時にこの値だけ前のindexまで制約mapを確認する
+  search_tl_dist_thr: 1.80  # 現状態から観測可能な信号を取得する際の距離のしきい値
+  search_tl_deg_thr:  20    # 現状態から観測可能な信号を取得する際の角度差の絶対値のしきい値(度数法)

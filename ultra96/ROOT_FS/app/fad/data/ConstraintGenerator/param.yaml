@@ -1,0 +1,26 @@
+%YAML 1.2
+---
+Basis:
+   escape_radius:                  0.20   # 車体が進入禁止領域に存在する際、車体を中心とした半径escape_radiusの円を進入可能領域として書き換える
+   target_velocity_lower:          0.065  # 目標速度の下限値
+   enable_object_detection:        1      # 0 or 1
+   enable_traffic_light_detection: 0      # 0 or 1
+   enable_pedestrian_detection:    0      # 0 or 1
+
+TrafficLight:
+   limit_time_of_red_light:       25.0  # 赤信号で停止する最大時間(秒)
+   limit_time_of_rediscovery:     0.0   # 信号待ちから復帰し、再度検出が有効となるまでの時間(秒)
+   detection_results_queue_depth: 5     # 信号認識の結果を格納するリングバッファの深さ
+   nof_detection_for_continuous:  1     # "連続して検出された"と見做す検出回数(ソースコード参照)
+   distance_thr_for_continuous:   50.0  # "同位置に検出された"と見做す検出結果間の距離のしきい値.(pix数)(ソースコード参照)
+   velocity_ratio_when_stop_line: 0.4   # 停止線付近に差し掛かった際、目標速度にこの値を掛ける
+
+Obstacle:
+   nof_opening:       1      # 彩度二値画像にかけるOpening処理の回数
+   nof_closing:       5      # 彩度二値画像にかけるClosing処理の回数
+   area_lower:        0.010
+   area_upper:        0.050
+   entarable_radius:  0.45   # $ 障害物の大きさ + entarable_radius $ を進入可能領域とする
+   valid_time_s:      50.0   # 検出してから障害物として有効な時間
+   occupation_radius: 0.02   # 障害物を新たに検出した際、この距離以内に既に障害物が検出されていれば、リストに追加しない
+   velocity_ratio_when_detect_obs: 0.725  # 障害物の状態を制約に反映した際、目標速度にこの値を掛ける

@@ -1,0 +1,10 @@
+uenvcmd=run bootkernel
+loadkernel=fatload mmc 0 ${kernel_load_address} ${kernel_image}
+kernel_image=Image
+machine_name=ultra96
+kernel_load_address=0x80000
+bootargs=earlycon clk_ignore_unused root=/dev/mmcblk0p2 rw rootwait uio_pdrv_genirq.of_id=generic-uio
+devicetree_load_address=0x4000000
+loaddtb=fatload mmc 0 ${devicetree_load_address} ${devicetree_image}
+bootkernel=run loadkernel && run loaddtb && booti ${kernel_load_address} ${devicetree_load_address}
+

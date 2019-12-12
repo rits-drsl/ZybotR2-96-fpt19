@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+Motor:
+   one_rotation_pulse: 630   # 1回転あたりのロータリーエンコーダのパルス数
+   one_rotation_dist:  0.233 # 1回転で進む距離(m)
+   tire_tread:         0.17  # タイヤ間の距離(m)

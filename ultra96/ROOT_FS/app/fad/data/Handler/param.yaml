@@ -1,0 +1,30 @@
+%YAML 1.2
+---
+Basis:
+   terminate_distance: 0.40 # 終了地点からこの距離以内に車体が到達したら終了する
+   optor_dev_filename: "/dev/ttyUSB0"
+
+# 立ち上がり時間(s)
+StartupDelay:
+   wo_calculating:  0.001
+   io_calculating:  0.001
+   vo_calculating:  0.001
+   localizationing: 0.001
+   planning:        0.001
+   tracing:         0.001
+   debagging:       0.001
+
+# 実行周期(s)
+ExecutePeriod:
+   wo_calculating:  0.008
+   io_calculating:  0.020
+   vo_calculating:  0.030
+   localizationing: 0.010
+   planning:        0.100
+   tracing:         0.010
+   debagging:       1.500
+
+Debug:
+   img_side_length: 2.25
+   interval_imshow_debug_map: 1
+   imwrite_mode: 0

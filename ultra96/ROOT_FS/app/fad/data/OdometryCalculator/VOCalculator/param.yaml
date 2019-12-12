@@ -1,0 +1,26 @@
+%YAML 1.2
+---
+Basis:
+  feature_pt_min_num_feat: 2000 # cv::calcOpticalFlowPyrLKで追跡された特徴点の数が
+                                # この値より少なければFAST特徴点抽出による再計算を行う
+  vo_queue_depth:                 5
+  vo_dtheta_valid_norm_threshold: 0.001 # 移動量がこの値以下であれば⊿θ = 0とする
+
+Fast:
+  use_nms:   1  # 1: use, 0: not use
+  threshold: 20
+
+OpticalFlow:
+  win_size:                21
+  tarm_criteria_max_count: 30
+  tarm_criteria_epsilon:   0.01
+  max_level:               3
+  min_eig_threshold:       0.001
+
+# TODO: Calibrationファイル(.xml)を参照するように変更する
+FivePt:
+  focal:     306.85128308786631 # Calibrationパラメータ fx
+  pp_x:      316.65578487129721 # Calibrationパラメータ cx
+  pp_y:      235.22872797028347 # Calibrationパラメータ cy
+  prob:      0.999
+  threshold: 1.0

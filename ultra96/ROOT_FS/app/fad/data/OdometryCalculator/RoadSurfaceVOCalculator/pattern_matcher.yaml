@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+AKAZE:                    # https://docs.opencv.org/3.4.2/d8/d30/classcv_1_1AKAZE.html
+   descriptor_type:     5 # 2:DESCRIPTOR_KAZE_UPRIGHT, 3:DESCRIPTOR_KAZE, 4:DESCRIPTOR_MLDB_UPRIGHT, 5:DESCRIPTOR_MLDB
+   descriptor_size:     0
+   descriptor_channels: 3
+   threshold:           0.00001
+   nOctaves:            4
+   nOctaveLayers:       4
+   diffusivity:         1 # DIFF_PM_G1 = 0, DIFF_PM_G2 = 1, DIFF_WEICKERT = 2, DIFF_CHARBONNIER = 3
+
+Matcher:
+   DescriptorMatcherType: "BruteForce-Hamming"
+   NNDR:                  0.8
+   matching_dist_thr:     0.60
