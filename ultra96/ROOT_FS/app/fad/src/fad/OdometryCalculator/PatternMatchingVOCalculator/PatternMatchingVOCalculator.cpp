@@ -105,7 +105,7 @@ namespace fad {
                                                        core::Util::clamp(ref_region_br.y, 0, ref_world_.map.rows - 1));
         const auto ref_region = cv::Rect(corrected_ref_region_tl, corrected_ref_region_br);
 
-        const auto ref_img = ref_world_.map(ref_region).clone();
+        auto ref_img = ref_world_.map(ref_region).clone();
         for(int i = 0; i < ref_img.size().area(); i++) {
             ref_img.data[i] =
                 (ref_img.data[i] == (uint8_t)core::RoadType::EDGE) ? 0x7F :
