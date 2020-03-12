@@ -115,7 +115,7 @@ ZybotR2-96-fpt19
 - Prof. Tomonori Izumi
 
 ## References
-Y. Kudo, A. Takada, Y. Ishida, and T. Izumi, "An SoC-FPGA-based Micro UGV with Localization and Motion Planning," in 2019 International Conference on Field-Programmable Technology (FPT), 2019, pp. 469-472.
+[Y. Kudo, A. Takada, Y. Ishida, and T. Izumi, "An SoC-FPGA-based Micro UGV with Localization and Motion Planning," in Proceedings of 2019 International Conference on Field-Programmable Technology (ICFPT), 2019, pp. 469-472.](https://ieeexplore.ieee.org/document/8977887)
 
 ## License
 MIT
