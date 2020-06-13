@@ -109,7 +109,7 @@ ZybotR2-96-fpt19
 - [2019 International Conference on Field-Programmable Technology FPGA Design Competition](http://fpt19.tju.edu.cn/Contest/FPT2019_FPGA_Design_Competition.htm)
 
 ## Authors
-- [Yuya Kudo](https://github.com/kyk0910)
+- [Yuya Kudo](https://github.com/medalotte)
 - [Atsushi Takada](https://github.com/atlchemt)
 - [Yuta Ishida](https://github.com/yukkuriDo)
 - Prof. Tomonori Izumi
